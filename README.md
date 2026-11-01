@@ -1,5 +1,8 @@
 # Agentic Analytics Dashboard
 
+NAME: ALLAN DILALI
+ABOUT: Currently a student in university undertaking a BSc Statistics Major.
+
 An end-to-end analytics case study of daily community usage aggregates. This project uses SQL to clean the data and Python to explore reported activity, token volume, and cost over time and across models.
 
 > **Data note:** Metric units and definitions are not documented in the supplied `community.csv` export. Results are descriptive of the fields as provided.
